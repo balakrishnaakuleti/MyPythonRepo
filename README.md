@@ -1,3 +1,3 @@
 # MyPythonRepo
 
-Here I want to write Python programs
+This repository has the Python programs which I have written during practice.
